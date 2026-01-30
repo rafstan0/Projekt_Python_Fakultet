@@ -1,0 +1,10 @@
+tensorflow
+matplotlib
+flask
+numpy
+tensorflow_datasets
+tensorflow.keras.models
+PIL
+io
+tensorflow.keras.preprocessing
+pathlib
